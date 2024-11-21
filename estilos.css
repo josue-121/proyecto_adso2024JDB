@@ -2,3 +2,13 @@
     background-color: #d2ffff;
     font-style: italic;
 }
+
+h1{
+    background-color: rgb(255, 224, 224);
+    border-radius: 12px;
+}
+
+body{
+    background-color: bisque;
+    border-radius: 12px;
+}
